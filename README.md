@@ -1,8 +1,3 @@
-give it to me on a canas
-
-5:24 PM
-I'll create a nice canvas artifact with your README that you can easily copy:
-
 markdown
 # Loan Approval Neural Network Classifier
 
